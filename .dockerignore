@@ -1,0 +1,8 @@
+.venv/
+.git/
+__pycache__/
+*.pyc
+tests/
+web/tests/
+_cleanclone_tmp/
+docs/
