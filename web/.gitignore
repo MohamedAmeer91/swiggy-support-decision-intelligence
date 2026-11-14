@@ -2,3 +2,4 @@ __pycache__/
 *.pyc
 # the repository root ignores tests/; web tests must be tracked
 !tests/
+.server.log
